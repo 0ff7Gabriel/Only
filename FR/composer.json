@@ -1,0 +1,15 @@
+{
+    "name": "dkiss/php",
+    "autoload": {
+        "psr-4": {
+            "Dkiss\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dkiss",
+            "email": "dkissartist@gmail.com"
+        }
+    ],
+    "require": {}
+}
